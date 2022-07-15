@@ -1,0 +1,20 @@
+#header-banner{
+    background-image: url(/images/banner.jpg);
+    padding: 11rem 0rem 11rem 0rem;
+    background-size: cover;
+}
+#header-banner h1{
+    font-size: 4em;
+    text-align: center;
+}
+/* #header{
+    font-size: 60px;
+    color: brown;
+}
+#subheader{
+    color: #fff;
+} */
+
+#gallery{
+    text-align: center;
+}
